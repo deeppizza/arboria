@@ -1,2 +1,5 @@
-# arboria
-In the region of Arboria, uncover the mystery of the Aurora Surge as you bond with powerful, elemental wildlife to restore balance and protect nature’s harmony.
+# Arboria
+In the region of Arboria, a mysterious phenomenon known as the Aurora Surge has transformed the local wildlife into powerful, type-based creatures with unique abilities. Each creature is tied to an elemental force, defending its natural habitat and competing for territory as nature itself adapts to this strange energy.
+
+The source of the Aurora Surge is unknown, but your geology professor suspects the origin is a collection of rare, ancient crystals buried deep within the region, rumored to channel the energy of the earth and skies. Local farmers and townspeople find themselves in awe—and sometimes in peril—as they navigate their coexistence with these wild, battle-ready creatures. Some of the inhabitants have even formed bonds with the animals, learning to work alongside them, and helping to protect Arboria from outside forces hoping to exploit its unique wildlife. As tensions rise, it’s up to you to help uncover the mystery of the Aurora Surge and decide how to restore balance to the region, or risk losing Arboria’s natural harmony forever.
+
